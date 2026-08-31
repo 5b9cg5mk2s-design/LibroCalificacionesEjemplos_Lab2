@@ -1,0 +1,14 @@
+C:\Users\vikst\source\repos\AplicacionLibroCalificaciones1\obj\Debug\net10.0\AplicacionLibroCalificaciones1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikst\source\repos\AplicacionLibroCalificaciones1\obj\Debug\net10.0\AplicacionLibroCalificaciones1.AssemblyInfoInputs.cache
+C:\Users\vikst\source\repos\AplicacionLibroCalificaciones1\obj\Debug\net10.0\AplicacionLibroCalificaciones1.AssemblyInfo.cs
+C:\Users\vikst\source\repos\AplicacionLibroCalificaciones1\obj\Debug\net10.0\AplicacionLibroCalificaciones1.csproj.CoreCompileInputs.cache
+C:\Users\vikst\source\repos\AplicacionLibroCalificaciones1\bin\Debug\net10.0\AplicacionLibroCalificaciones1.exe
+C:\Users\vikst\source\repos\AplicacionLibroCalificaciones1\bin\Debug\net10.0\AplicacionLibroCalificaciones1.deps.json
+C:\Users\vikst\source\repos\AplicacionLibroCalificaciones1\bin\Debug\net10.0\AplicacionLibroCalificaciones1.runtimeconfig.json
+C:\Users\vikst\source\repos\AplicacionLibroCalificaciones1\bin\Debug\net10.0\AplicacionLibroCalificaciones1.dll
+C:\Users\vikst\source\repos\AplicacionLibroCalificaciones1\bin\Debug\net10.0\AplicacionLibroCalificaciones1.pdb
+C:\Users\vikst\source\repos\AplicacionLibroCalificaciones1\obj\Debug\net10.0\AplicacionLibroCalificaciones1.dll
+C:\Users\vikst\source\repos\AplicacionLibroCalificaciones1\obj\Debug\net10.0\refint\AplicacionLibroCalificaciones1.dll
+C:\Users\vikst\source\repos\AplicacionLibroCalificaciones1\obj\Debug\net10.0\AplicacionLibroCalificaciones1.pdb
+C:\Users\vikst\source\repos\AplicacionLibroCalificaciones1\obj\Debug\net10.0\AplicacionLibroCalificaciones1.genruntimeconfig.cache
+C:\Users\vikst\source\repos\AplicacionLibroCalificaciones1\obj\Debug\net10.0\ref\AplicacionLibroCalificaciones1.dll

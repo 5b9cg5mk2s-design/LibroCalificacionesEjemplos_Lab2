@@ -1,0 +1,14 @@
+C:\Users\vikst\source\repos\LibroCalificaciones_3\bin\Debug\net10.0\LibroCalificaciones_3.exe
+C:\Users\vikst\source\repos\LibroCalificaciones_3\bin\Debug\net10.0\LibroCalificaciones_3.deps.json
+C:\Users\vikst\source\repos\LibroCalificaciones_3\bin\Debug\net10.0\LibroCalificaciones_3.runtimeconfig.json
+C:\Users\vikst\source\repos\LibroCalificaciones_3\bin\Debug\net10.0\LibroCalificaciones_3.dll
+C:\Users\vikst\source\repos\LibroCalificaciones_3\bin\Debug\net10.0\LibroCalificaciones_3.pdb
+C:\Users\vikst\source\repos\LibroCalificaciones_3\obj\Debug\net10.0\LibroCalificaciones_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikst\source\repos\LibroCalificaciones_3\obj\Debug\net10.0\LibroCalificaciones_3.AssemblyInfoInputs.cache
+C:\Users\vikst\source\repos\LibroCalificaciones_3\obj\Debug\net10.0\LibroCalificaciones_3.AssemblyInfo.cs
+C:\Users\vikst\source\repos\LibroCalificaciones_3\obj\Debug\net10.0\LibroCalificaciones_3.csproj.CoreCompileInputs.cache
+C:\Users\vikst\source\repos\LibroCalificaciones_3\obj\Debug\net10.0\LibroCalificaciones_3.dll
+C:\Users\vikst\source\repos\LibroCalificaciones_3\obj\Debug\net10.0\refint\LibroCalificaciones_3.dll
+C:\Users\vikst\source\repos\LibroCalificaciones_3\obj\Debug\net10.0\LibroCalificaciones_3.pdb
+C:\Users\vikst\source\repos\LibroCalificaciones_3\obj\Debug\net10.0\LibroCalificaciones_3.genruntimeconfig.cache
+C:\Users\vikst\source\repos\LibroCalificaciones_3\obj\Debug\net10.0\ref\LibroCalificaciones_3.dll
